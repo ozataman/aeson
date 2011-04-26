@@ -17,6 +17,7 @@
 module Data.Aeson.Generic
     (
       fromJSON
+    , parseJSON
     , toJSON
     ) where
 
